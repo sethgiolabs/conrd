@@ -1,0 +1,5 @@
+{
+  "name": "Conrad Inventory System",
+  "description": "A modern Single Page Application for inventory management with a dark sidebar, dashboard, and movement tracking.",
+  "requestFramePermissions": []
+}
